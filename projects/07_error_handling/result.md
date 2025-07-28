@@ -1,3 +1,5 @@
+
+```c
 I (15191) spi_flash: detected chip: winbond
 I (15213) spi_flash: flash io: dio
 I (15239) main_task: Started on CPU0
@@ -104,3 +106,4 @@ I (40299) ERROR_HANDLING:
 I (40299) ERROR_HANDLING: 🎓 ได้เรียนรู้: enum, struct, error codes, และการตรวจสอบข้อมูล
 I (40299) ERROR_HANDLING: 🏆 ตอนนี้คุณสามารถเขียนโค้ดที่ปลอดภัยและน่าเชื่อถือแล้ว!
 I (40299) main_task: Returned from app_main()
+```
